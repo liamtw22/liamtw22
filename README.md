@@ -4,3 +4,9 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamtw22)](https://github.com/liamtw22/github-readme-stats)
 
+<a href="https://github.com/liamtw22/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liamtw22a&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liamtw22a&repo=convoychat" />
+</a>
